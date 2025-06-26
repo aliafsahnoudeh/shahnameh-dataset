@@ -17,7 +17,6 @@
 
 ## قدم های آتی
 
-- Relational Database
 - Vector Database
 
 # Shahnameh Dateset (Engllish Version)
